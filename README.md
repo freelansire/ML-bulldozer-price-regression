@@ -1,4 +1,4 @@
-## Predicting the Sale Price of Bulldozers using Machine Learning
+## 🚜 Predicting the Sale Price of Bulldozers using Machine Learning
 This project applies machine learning techniques to predict the future sale price of bulldozers, based on their characteristics and historical sales data.
 
 #### 1. Problem Definition
